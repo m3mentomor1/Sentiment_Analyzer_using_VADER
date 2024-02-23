@@ -1,1 +1,1 @@
-# Text_Sentiment_Analysis_using_VADER
+# Text_Sentiment_Analyzer_using_VADER
